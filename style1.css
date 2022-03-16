@@ -1,0 +1,18 @@
+.box {
+  max-width: 50%;
+  margin: 3rem auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+}
+.title {
+  margin-top: 5rem;
+}
+.javob {
+  font-size: 1.4rem;
+  width: 100%;
+}
+.nat {
+  width: 35rem;
+  overflow: auto;
+}
